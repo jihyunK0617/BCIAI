@@ -1,5 +1,5 @@
 # **BCIAI**
+- Jihyun Kwon, Yeeun Shin, Minjoo Hwang
 
-
-## **YOUTUBE**
+## **Video**
 https://youtu.be/-CkcFa1ur7I
